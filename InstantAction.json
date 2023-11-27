@@ -2,10 +2,10 @@
   "HasProblem": true,
   "ForceUpdate": true,
   "Problem": "Update",
-  "Version": "1.1.11",
+  "Version": "1.1.12",
   "Stable_Version": {
     "Valid_Version": [
     ],
-    "RealTime_AutoUpdate": false
+    "RealTime_AutoUpdate": true
   }
 }
