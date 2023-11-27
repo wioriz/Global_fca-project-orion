@@ -1,6 +1,6 @@
 {
-  "HasProblem": true,
-  "ForceUpdate": true,
+  "HasProblem": false,
+  "ForceUpdate": false,
   "Problem": "Update",
   "Version": "1.1.14",
   "Stable_Version": {
