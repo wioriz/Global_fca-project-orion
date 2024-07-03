@@ -1,6 +1,6 @@
 {
-  "HasProblem": true,
-  "ForceUpdate": true,
+  "HasProblem": false,
+  "ForceUpdate": false,
   "Problem": "Fix some code!!",
   "Version": "1.1.22",
   "Stable_Version": {
